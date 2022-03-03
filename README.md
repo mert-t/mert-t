@@ -16,7 +16,6 @@
 ◾ ☕ I love doing sport and brew my own coffee. <br>
 ◾ 🌱 I'm currently learning about apps and web UI and I also want to learn about database.<br>
 ◾ 💬 You can always reach me out for anything!<br>
-◾ <img src="https://i.imgur.com/62IuQAp.png" width=20> &nbsp;Akien#1944 <br>
 ◾ <img src="https://i.imgur.com/TsoLODG.png" width=20> &nbsp;akameg72@gmail.com <br>
 
 </p>
